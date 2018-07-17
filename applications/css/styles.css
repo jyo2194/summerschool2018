@@ -1,0 +1,9 @@
+body{margin-left:30px}
+
+.heading{
+margin:40px 150px;
+color:orange;
+}
+.menu{align:centre ;color:yellow;}
+.centre{align:center;}
+blockquote{background:#e1e1e1;padding:10px 30px;box-shadow:3px 3px 6px 2px #777;font-size:20px;}
